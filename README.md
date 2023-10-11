@@ -27,4 +27,5 @@ Here are some ideas to get you started:
   <img align="center" alt="Manoel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Manoel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Manoel-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" alt="Manoel-Latex" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" />
 </div>
